@@ -2,7 +2,7 @@
 
 A quick-start Vue project that shows how to handle uploaded files securely using JSON Web Tokens (JWT) in the Syncfusion [Vue File Upload](https://www.syncfusion.com/vue-components/vue-file-upload?utm_source=github&utm_medium=listing&utm_campaign=tutorial-videos-vue-file-upload-jwt-sample) component. This project contains code to add JWTs along with request headers while uploading and removing files. Both client and server-side code are explained in this sample. 
 
-Watch the video: Coming soon…
+Watch the video: https://www.syncfusion.com/tutorial-videos/vue/file-upload?title=handle-files-securely-in-vue-file-upload-using-jwt 
 
 Refer to the following documentation to learn about the Vue File Upload component: https://ej2.syncfusion.com/vue/documentation/uploader/vue3-getting-started   
 
